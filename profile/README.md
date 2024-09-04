@@ -33,6 +33,7 @@ This is a list that's growing but we are experienced and have delivered in
 
 * Security 
   * Controls design and management
+  * AI Agents and ChatBot Security 
 * Health Tech
   * Supply Chain Analysis
   * Conversational Patient Machine Learning
@@ -46,6 +47,11 @@ This is a list that's growing but we are experienced and have delivered in
   * Algorithm Design 
   * Advertizing vs User Satisfaction algorithm development
   * Business System and Scale Design
+* Data Management
+  * Data Warehouse design and implementation
+  * Analytics / BI implementation, including custom embedding
+  * ETL development
+  * Synthetic Data Development
 
 ### Contributing to our code
 Where possible we will use either Apache2 or MIT licenses which allows you to fork and work on your own copy. But we encourage you to contribute back to these main repos so others may benefit and long term support may be provided. Applying patches with every upgrade isn't fun.
