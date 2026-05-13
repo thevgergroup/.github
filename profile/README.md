@@ -58,7 +58,7 @@ Where possible we will use either Apache2 or MIT licenses which allows you to fo
 
 However in doing so, we ask that you abide by Contributor Covenant Code of Conduct
 It's simple, this isn't the place for trolling, exploitation, or generally being a goober.
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](Code-of-Conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/thevgergroup/.github/blob/main/Code-of-Conduct.md)
 
 
-![The VGER Group](https://thevgergroup.com/hubfs/touching.png)
+![The VGER Group](https://thevgergroup.com/wp-content/uploads/2026/05/touching.png)
